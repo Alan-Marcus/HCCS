@@ -1,0 +1,7 @@
+@lxpanel --profile LXDE-pi
+@pcmanfm --desktop --profile LXDE-pi
+@xscreensaver -no-splash
+@conky
+@bash /home/pi/Desktop/a-Record.sh
+@bash /home/pi/Desktop/aw-Record.sh
+@bash /home/pi/Desktop/a-Preview.sh
