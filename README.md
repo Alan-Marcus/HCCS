@@ -3,8 +3,8 @@ The HCCS is a Raspberry Pi remote video system designed for the monitoring and r
 
 Please refer to our publication (*link to be added*) for a detailed protocol on the contruction and operation of this system and the use of [SLEAP](https://sleap.ai/) for multi-animal pose estimation to track group-housed, unmarked individuals to objectively quantify behavioral characteristics.
 
-**Rapsberry Pi preconfigured disk image**
-- [HCCS_2021_12_06.img.xz](https://github.com/Alan-Marcus/HCCS/raw/main/HCCS_2021-12-06.img.xz) (1.11 GB)
+**Rapsberry Pi preconfigured disk image** (1.11 GB)
+- [HCCS_2021_12_06.img.xz](https://github.com/Alan-Marcus/HCCS/raw/main/HCCS_2021-12-06.img.xz) or download from [DropBox mirror](https://dropbox.com/s/4crnjkfatgz99t0/HCCS_2021-12-06.img.xz?dl=1)
 
 **3D print files**
 - [HCCS_RPi-camera_holder.stl](https://github.com/Alan-Marcus/HCCS/raw/main/02%203D%20print%20files/HCCS_RPi-camera_holder.stl)
