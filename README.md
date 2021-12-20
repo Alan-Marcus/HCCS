@@ -12,8 +12,8 @@ Please refer to our publication (*link to be added*) for a detailed protocol on 
 
 **FFmpeg and scripts**
 - [ffmpeg-20200828-ccc7120-win64-static](https://github.com/Alan-Marcus/HCCS/raw/main/03%20Analysis%20scripts%20and%20templates/FFmpeg/ffmpeg-20200828-ccc7120-win64-static.7z)
-- [FFmpeg_convert-to-mp4.bat](https://github.com/Alan-Marcus/HCCS/raw/main/03%20Analysis%20scripts%20and%20templates/FFmpeg/FFmpeg_concatenate-convert-to-mp4.bat)
-- [FFmpeg_concatenate-convert-to-mp4.bat](https://github.com/Alan-Marcus/HCCS/raw/main/03%20Analysis%20scripts%20and%20templates/FFmpeg/FFmpeg_convert-to-mp4.bat)
+- [FFmpeg_convert-to-mp4.bat](https://github.com/Alan-Marcus/HCCS/raw/main/03%20Analysis%20scripts%20and%20templates/FFmpeg/FFmpeg_convert-to-mp4.bat)
+- [FFmpeg_concatenate-convert-to-mp4.bat](https://github.com/Alan-Marcus/HCCS/raw/main/03%20Analysis%20scripts%20and%20templates/FFmpeg/FFmpeg_concatenate-convert-to-mp4.bat)
 
 **SLEAP scripts, templates, and notebooks**
 - [HCCS_SLEAP-create-training-videos-list.bat](https://github.com/Alan-Marcus/HCCS/raw/main/03%20Analysis%20scripts%20and%20templates/SLEAP/HCCS_SLEAP-create-training-videos-list.bat)
