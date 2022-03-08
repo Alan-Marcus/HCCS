@@ -20,6 +20,7 @@ Please refer to our publication (*link to be added*) for a detailed protocol on 
 - [HCCS_SLEAP-create-analysis-h5-list.bat](https://github.com/Alan-Marcus/HCCS/raw/main/03%20Analysis%20scripts%20and%20templates/SLEAP/HCCS_SLEAP-create-analysis-h5-list.bat)
 - [HCCS_example_project_analysis_template.xlsx](https://github.com/Alan-Marcus/HCCS/raw/main/03%20Analysis%20scripts%20and%20templates/SLEAP/HCCS_example_project_analysis_template.xlsx)
 - [HCCS_example_project_AUC_template.pzfx](https://github.com/Alan-Marcus/HCCS/raw/main/03%20Analysis%20scripts%20and%20templates/SLEAP/HCCS_example_project_AUC_template.pzfx)
+- [HCCS_1cm_checkerboard.png](https://github.com/Alan-Marcus/HCCS/raw/main/03%20Analysis%20scripts%20and%20templates/HCCS_1cm_checkerboard.png)
 - [SLEAP Training & Inference ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alan-Marcus/HCCS/blob/main/03%20Analysis%20scripts%20and%20templates/SLEAP/Colab%20Notebooks/SLEAP_Training_%26_Inference.ipynb)
 - [SLEAP Scale ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alan-Marcus/HCCS/blob/main/03%20Analysis%20scripts%20and%20templates/SLEAP/Colab%20Notebooks/SLEAP_Scale_Calculation.ipynb)
 - [SLEAP Movement Analysis ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alan-Marcus/HCCS/blob/main/03%20Analysis%20scripts%20and%20templates/SLEAP/Colab%20Notebooks/SLEAP_Movement_Analysis.ipynb)
