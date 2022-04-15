@@ -1,7 +1,7 @@
 # Home-Cage Camera System (HCCS)
 The HCCS is a Raspberry Pi remote video system designed for the monitoring and recording of animal enclosures. It offers secure remote real-time video monitoring with complete system control and the ability to enable automatic or delayed recording on startup.
 
-Please refer to our publication (*link to be added*) for a detailed protocol on the construction and operation of this system and the use of [SLEAP](https://sleap.ai/) for multi-animal pose estimation to track group-housed, unmarked individuals to objectively quantify behavioral characteristics.
+Please refer to our [publication](https://doi.org/10.1016/j.xpro.2022.101326) for a detailed protocol on the construction and operation of this system and the use of [SLEAP](https://sleap.ai/) for multi-animal pose estimation to track group-housed, unmarked individuals to objectively quantify behavioral characteristics.
 
 **Rapsberry Pi preconfigured disk image** (1.11 GB)
 - [HCCS_2021_12_06.img.xz](https://github.com/Alan-Marcus/HCCS/raw/main/HCCS_2021-12-06.img.xz) or download from [DropBox mirror](https://dropbox.com/s/4crnjkfatgz99t0/HCCS_2021-12-06.img.xz?dl=1)
